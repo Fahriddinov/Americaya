@@ -29,7 +29,7 @@ img{
     position: absolute;
 }
 
-@media (max-width: 300px) {
+@media (max-width: 240px) {
     main{
         flex-direction: column;
     }
