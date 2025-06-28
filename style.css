@@ -1,0 +1,36 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+}
+
+hr{
+    width: 200px;
+    height: 5px;
+    background-color: white;
+}
+
+img{
+    margin: 150px auto;
+    width: 600px;
+    height: 400px;
+}
+
+.secret{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    margin-top: 900px;
+    position: absolute;
+}
