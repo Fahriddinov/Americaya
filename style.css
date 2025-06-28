@@ -29,13 +29,16 @@ img{
     position: absolute;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 300px) {
     main{
-        gap: 30px;
+        flex-direction: column;
     }
     button{
         width: 100px;
         height: 50px;
+        border-radius: 10px;
+        background-color: grey;
+        color: white;
     }
 
     img{
